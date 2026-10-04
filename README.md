@@ -43,3 +43,5 @@ The character gives the app continuity, while text and ordinary controls remain 
 This is a documentation-only portfolio snapshot containing approved screenshots and a conceptual workflow. The application source and implementation history remain in a separate private repository. No licence to the private implementation is granted here.
 
 For a project walkthrough, [connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
+
+This public showcase is archived as a portfolio snapshot. Archiving applies to this presentation repository; product development is maintained separately in private.
