@@ -52,4 +52,4 @@ This portfolio snapshot contains selected, runnable source examples, tests, evid
 
 For a project walkthrough, [connect on LinkedIn](https://www.linkedin.com/in/salem-elatrash/).
 
-This public showcase is archived as a portfolio snapshot with selected code and reproducible evidence. Archiving applies to this presentation repository; product development is maintained separately in private.
+This is a presentation repository with selected code and reproducible evidence. Product development is maintained separately in private.
